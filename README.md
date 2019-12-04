@@ -1,3 +1,13 @@
+Step to setup your gatsby site with drupal.
+1. clone this repo
+2. configure gatsby-config.js and replace your site url and endpoint inside gatsby-source-drupal plugin.
+3.  On your drupal site make sure to enable jsonapi and json api extra module(there is a json api default module that you can enable too)
+4. In some cases contact module causes issue, if you are not able to connect then try disabling contact module.
+5. go to your new cloned directory
+6. run npm install
+7. then run gatsby develop
+
+you can find rest from here https://www.gatsbyjs.org/
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
