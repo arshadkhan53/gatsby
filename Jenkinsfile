@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage("Checking eslint") {
+    stage("build") {
       step {
         echo 'Checking eslinting....'
       }
