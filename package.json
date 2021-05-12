@@ -27,7 +27,7 @@
     "react-responsive-carousel": "^3.1.51",
     "react-reveal": "^1.2.2",
     "styled-components": "^5.0.0-rc.2",
-    "swiper": "^5.2.1"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
